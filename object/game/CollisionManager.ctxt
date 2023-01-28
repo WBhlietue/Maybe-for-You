@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CollisionManager
+comment1.params=
+comment1.target=void\ run()
+comment10.params=game
+comment10.target=void\ removeTarget(Game)
+comment11.params=
+comment11.target=void\ Check()
+comment2.params=
+comment2.target=CollisionManager()
+comment3.params=game
+comment3.target=void\ addCheckObj(Game)
+comment4.params=game
+comment4.target=void\ addCheck(Game)
+comment5.params=game
+comment5.target=void\ addtargetObj(Game)
+comment6.params=game
+comment6.target=void\ addTarget(Game)
+comment7.params=game
+comment7.target=void\ removeCheckObj(Game)
+comment8.params=game
+comment8.target=void\ remvoeCheck(Game)
+comment9.params=game
+comment9.target=void\ removeTargetObj(Game)
+numComments=12

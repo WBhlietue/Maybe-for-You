@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyTools
+comment1.params=obj
+comment1.target=void\ Print(java.lang.Object)
+comment2.params=min\ max
+comment2.target=int\ getRandomNum(int,\ int)
+numComments=3

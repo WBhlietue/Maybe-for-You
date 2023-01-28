@@ -1,0 +1,158 @@
+<html>
+  <head>
+    <style>
+      @font-face {
+        font-family: Ubuntu;
+        src: url("Fonts/UbuntuCondensed-Regular.ttf");
+      }
+      body {
+        margin: 0;
+        background-color: antiquewhite;
+      }
+      .tab1 {
+        /* background-color: aqua; */
+        width: 80vw;
+        /* height: 300; */
+        margin: 0 auto;
+        margin-top: 100px;
+        margin-bottom: 50px;
+      }
+      .el {
+        display: flex;
+        flex-direction: row;
+      }
+      .thElem {
+        text-align: left;
+        width: 150px;
+        height: 50px;
+        font-size: 25px;
+        font-family: "Ubuntu";
+      }
+      .tb {
+        flex: 1;
+      }
+      .lis {
+        flex: 1;
+      }
+      .l {
+        font-size: 25px;
+        font-family: "Ubuntu";
+      }
+      .center {
+        height: 720px;
+        width: 1080px;
+        margin: 0 auto;
+        background-color: aqua;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="table1" class="tab1">
+      <a href="#table1" style="font-size: 20px; font-family: 'Ubuntu'">
+        Table1
+      </a>
+      <br />
+      <a href="#table2" style="font-size: 20px; font-family: 'Ubuntu'">
+        Table2
+      </a>
+      <div class="el">
+        <div class="tb">
+          <p style="text-align: center; font-size: 25px; font-family: 'Ubuntu'">
+            Monthly saving
+          </p>
+          <table border="1px" style="margin: 0 auto">
+            <tr>
+              <th colspan="2" style="font-size: 25px; font-family: 'Ubuntu'">
+                Menu
+              </th>
+              <th class="thElem">Type</th>
+            </tr>
+            <tr>
+              <th class="thElem">Мэдээ</th>
+              <th class="thElem">News</th>
+              <th rowspan="4" style="font-size: 25px; font-family: 'Ubuntu'">
+                Dotood
+              </th>
+            </tr>
+            <tr>
+              <th class="thElem">Зураг</th>
+              <th class="thElem">Photo</th>
+            </tr>
+            <tr>
+              <th class="thElem">Холбоо барих</th>
+              <th class="thElem">Contact</th>
+            </tr>
+            <tr>
+              <th class="thElem">Танилцуулга</th>
+              <th class="thElem">Intro</th>
+            </tr>
+          </table>
+        </div>
+        <div class="lis">
+          <br />
+          <br />
+          <ul>
+            <li class="l">PHP</li>
+            <li class="l">PHP Cake</li>
+            <li class="l">PHP symfony</li>
+          </ul>
+          <ol type="a">
+            <li class="l">PHP</li>
+            <li class="l">PHP Cake</li>
+            <li class="l">PHP symfony</li>
+          </ol>
+          <dl>
+            <dt class="l">Coffee</dt>
+            <dd class="l">Black hot Drink</dd>
+            <dt class="l">Milk</dt>
+            <dd class="l">White cold Drink</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <div class="center">
+      <iframe src="info.html" width="1080px" height="720px" ></iframe>
+    </div>
+    <div id="table2" class="tab1">
+      <a href="#table1" style="font-size: 20px; font-family: 'Ubuntu'">
+        Table1
+      </a>
+      <br />
+      <a href="#table2" style="font-size: 20px; font-family: 'Ubuntu'">
+        Table2
+      </a>
+      <div class="el">
+        <div class="tb">
+          <p style="text-align: center; font-size: 25px; font-family: 'Ubuntu'">
+            Monthly saving
+          </p>
+          <table border="1px" style="margin: 0 auto">
+            <tr>
+              <th rowspan="2" style="font-size: 25px; font-family: 'Ubuntu'">
+                Gender
+              </th>
+              <th colspan="2" class="thElem">Type</th>
+              <th rowspan="2" class="thElem">Red Eyes</th>
+            </tr>
+            <tr>
+              <th class="thElem">Height</th>
+              <th class="thElem">Width</th>
+            </tr>
+            <tr>
+              <th class="thElem">Male</th>
+              <th class="thElem">1.7</th>
+              <th class="thElem">65</th>
+              <th class="thElem">42%</th>
+            </tr>
+            <tr>
+              <th class="thElem">Female</th>
+              <th class="thElem">1.6</th>
+              <th class="thElem">55</th>
+              <th class="thElem">20%</th>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

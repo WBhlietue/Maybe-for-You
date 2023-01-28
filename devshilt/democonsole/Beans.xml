@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="HI" class="com.example.democonsole.BeanTest" scope="singleton" init-method="Init">
+        <constructor-arg name="m" type="String" value="Constructor"></constructor-arg>
+        <property name="msg" value="Hi, Test Over!"></property>
+    </bean>
+    <bean id="student" class="com.example.democonsole.Student" scope="prototype">
+        <constructor-arg name="c" type="String" value="123"></constructor-arg>
+        <constructor-arg name="n" type="String" value="321"></constructor-arg>
+        <constructor-arg name="a" type="int" value= "19"></constructor-arg>
+        <constructor-arg name="cou" type="int" value="2"></constructor-arg>
+    </bean>
+    <bean id="salbar" class="com.example.democonsole.Salbar" scope="prototype">
+        <constructor-arg name="c" type="String" value="Sict"></constructor-arg>
+        <constructor-arg name="n" type="String" value="MHTS"></constructor-arg>
+    </bean>
+</beans>

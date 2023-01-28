@@ -1,0 +1,90 @@
+{
+    "editor.fontFamily": " 'Courier New', monospace",
+    "editor.tokenColorCustomizations": {
+        "functions": "#5eff00",
+        "strings": "#fffb00",
+        "numbers": "#ff702e",
+        "keywords": "#e887fc",
+        "comments": "#d9fa7d",
+        "variables": "#00d9ff",
+        "types": "#ffee00",
+
+        "textMateRules": [
+            {
+                "scope": [
+                    "meta.tag",
+                ],
+                "settings": {
+                    "foreground": "#25ccff",
+                }
+            },
+            {
+                "scope": [
+                    "entity.name.tag",
+                ],
+                "settings": {
+                    "foreground": "#ff5555",
+                }
+            },
+            {
+                "scope": [
+                    "meta.class",
+                    "variable",
+                    "keyword",
+                    "comment",
+                    "entity.name.class",
+                    "entity.name.function",
+                    "entity.name.method",
+                    "constant",
+                    "storage.modifier",
+                    "entity.name.tag",
+                    "entity.name.type",
+                    "meta.type",
+                    "meta.tag",
+                    "string",
+                    "keyword.control",
+                    "keyword.operator",
+                    "variable.language",
+                    "constant.numeric",
+                    "keyword.other",
+                    "storage",
+                    "support.type.property-name",
+                ],
+                "settings": {}
+            },
+            {
+                "scope": "support.type.property-name",
+                "settings": {
+                    "foreground": "#00ffff"
+                }
+            }
+        ]
+    },
+    "workbench.colorCustomizations": {
+        "editorLineNumber.activeForeground": "#ec362f",
+        "editorLineNumber.foreground": "#33a739",
+        "editorCursor.background": "#ff0000",
+        "editorCursor.foreground": "#ffffff",
+        "editor.selectionBackground": "#5a5949",
+        "tab.activeBorder": "#c14fdd",
+        "tab.hoverBorder": "#5544b8",
+        "editorBracketHighlight.foreground1": "#ff7300",
+        "editorBracketHighlight.foreground2": "#fffb08",
+        "editorBracketHighlight.foreground3": "#6aff45",
+        "editorBracketHighlight.foreground4": "#27bbff",
+        "editorBracketHighlight.foreground5": "#c42fff",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+        "editor.background": "#34363f",
+        "foreground": "#F8F8F2",
+        "editor.foreground": "#9780ff",
+        "button.hoverBackground": "#198888",
+        "dropdown.background": "#443655",
+        "dropdown.listBackground": "#443655",
+        "activityBar.activeBackground": "#24242c",
+        "sideBar.background": "#24242c",
+        "editorGroupHeader.tabsBackground": "#0a0000",
+        "tab.activeBackground": "#393e5e",
+        "tab.inactiveBackground": "#3d3d3d",
+        "tab.border": "#7585a8"
+    },
+}

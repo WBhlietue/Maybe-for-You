@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+    <div>
+      <fieldset class="filed">
+        <legend>Student data</legend>
+        <form >
+          <p class="formP">
+            <label class="lab">First Name</label>
+            <input id = "fName" type="text" class="input" name = "firstName">
+          </p>
+          <p class="formP">
+            <label class="lab">Last Name</label>
+            <input id = "lName" type="text" class="input" name="lastName">
+          </p>
+          <p class="formP">
+            <label class="lab">Code</label>
+            <input id = "code" type="text" class="input" name="code">
+          </p>
+          <p class="formP">
+            <label class="lab">Age</label>
+            <input id = "age" type="number" class="input" name="age">
+          </p>
+          <p class="formP">
+            <label class="lab">Birth</label>
+            <input id = "birth"type="date" class="input" value="2022-11-11" name="birth">
+          </p>
+          <p class="formP">
+            <label class="lab">GPA</label>
+            <input id = "gpa" type="number" step="0.1" class="input" name="gpa">
+          </p>
+          <p class="formP">
+            <label class="lab">Is take leave</label>
+            <input id = "radio" type="radio" class="input" name="isTakeLeave" value="Yes"> <label>Yes</label>
+            <input id = "radio" type="radio" class="input" name="isTakeLeave" value="No" checked> <label>No</label>
+          </p>
+        </form>
+        <button class="submit" onclick="Post()">Submit</button>
+      </fieldset>
+    </div>
+    <table id = "table"></table>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

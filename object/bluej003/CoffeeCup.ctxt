@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CoffeeCup
+comment1.params=cupType\ size\ color\ cType\ milk\ black\ sugar
+comment1.target=CoffeeCup(java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

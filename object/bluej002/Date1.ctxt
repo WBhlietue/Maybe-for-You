@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Date1
+comment1.params=year\ month\ day
+comment1.target=Date1(int,\ int,\ int)
+comment2.params=month
+comment2.target=int\ checkMonth(int)
+comment3.params=day
+comment3.target=int\ checkDay(int)
+comment4.params=
+comment4.target=int\ calcNum()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

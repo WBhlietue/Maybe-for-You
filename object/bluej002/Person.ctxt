@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=
+comment1.target=Person()
+comment2.params=
+comment2.target=long\ getSalary()
+comment3.params=
+comment3.target=java.lang.String\ getRole()
+comment4.params=
+comment4.target=int\ getID()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Num
+comment1.params=i\ j
+comment1.target=Num(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

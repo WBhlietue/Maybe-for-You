@@ -1,0 +1,129 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url("Fonts/UbuntuCondensed-Regular.ttf");
+}
+
+body {
+  background-image: url("Images/back.jpg");
+  margin: 0;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  font-family: "Ubuntu";
+}
+
+.header {
+  background-color: wheat;
+  border: 2px solid black;
+  width: 100vw;
+  height: 75px;
+  position: fixed;
+  top: 0;
+  list-style-type: none;
+  flex-direction: row;
+  display: flex;
+}
+.logo {
+  /* background-color: white; */
+  height: 70px;
+  width: 70px;
+  margin-top: 2.5px;
+  margin-left: 20px;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+}
+.li {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-left: 200px;
+}
+.main {
+  background-color: bisque;
+  width: 80vw;
+  margin: 0 auto;
+  padding: 10px;
+  /* height: 1000px; */
+}
+.main1 {
+  display: flex;
+  flex-direction: row;
+}
+.main1l {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  padding-right: 10px;
+}
+.main1lCont {
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+}
+.main1lContImg {
+  flex: 1;
+}
+.main1lContP {
+  flex: 2;
+}
+.main1lContHead {
+  margin-top: -5px;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+.main1lContText {
+  text-align: justify;
+  font-size: 20px;
+  margin: 5px;
+  margin-top: 0px;
+}
+.main1r {
+  flex: 1;
+}
+.main1rCont {
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+}
+.main1rItem {
+  margin-top: 5px;
+  height: 125px;
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+}
+.main1rContImg {
+  flex: 1;
+}
+.main1rContP {
+  padding-top: 40px;
+  flex: 2;
+}
+.main1rContHead {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+.main1rContText {
+  text-align: justify;
+  font-size: 20px;
+  margin: 5px;
+  margin-top: 0px;
+}
+
+.footer {
+  background-color: wheat;
+  width: 100vw;
+  height: 75px;
+  position: fixed;
+  bottom: 0;
+  border: 2px solid black;
+}
+.footerInfo {
+  text-align: center;
+  padding-top: 5px;
+  font-size: 20px;
+}

@@ -1,0 +1,94 @@
+@font-face {
+    font-family: Ubuntu;
+    src: url("../Fonts/UbuntuCondensed-Regular.ttf");
+  }
+  
+
+body{
+    background-color: wheat;
+    font-family: "Ubuntu";
+}
+
+.circle {
+  height: 500px;
+  width: 500px;
+  border: 10px solid grey;
+  border-radius: 250px;
+  margin: auto;
+  top: 50px;
+  position: relative;
+}
+.clockChild {
+  height: 100px;
+  width: 20px;
+  border-radius: 10px;
+  background-color: black;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -100%);
+}
+.clock {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -100%);
+}
+.minutChild {
+  height: 200px;
+  width: 10px;
+  border-radius: 5px;
+  background-color: black;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -100%);
+}
+.minut {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -100%);
+}
+.center{
+    position:  absolute;
+    left: 50%;
+    top: 50%;
+    transform:  translate(-50%, -50%);
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+.num{
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+}
+.number{
+    
+    color: blue;
+    position: absolute;
+    left: 48%;
+    height: 500px;
+    width: 10px;
+}
+.line{
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+}
+.numClock{
+    height: 100px;
+    width: 300px;
+    border: 2px solid grey;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 625px;
+    transform: translate(-50%);
+    border-radius: 50px;
+}
+.nC{
+    font-size: 80px;
+    text-align: center;
+}

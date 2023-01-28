@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vector
+comment1.params=x\ y
+comment1.target=Vector(int,\ int)
+comment2.params=another
+comment2.target=Vector\ Add(Vector)
+comment3.params=another
+comment3.target=Vector\ Less(Vector)
+comment4.params=a
+comment4.target=Vector\ Mult(int)
+comment5.params=a
+comment5.target=Vector\ Div(int)
+comment6.params=a\ b
+comment6.target=int\ Distance(Vector,\ Vector)
+comment7.params=
+comment7.target=int\ Lenght()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

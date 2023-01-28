@@ -1,0 +1,88 @@
+<html>
+  <head>
+    <style>
+      @font-face {
+        font-family: Ubuntu;
+        src: url("Fonts/UbuntuCondensed-Regular.ttf");
+      }
+      body {
+        background-color: antiquewhite;
+      }
+      .title {
+        font-size: 25px;
+        font-family: "Ubuntu";
+        margin-bottom: 10px;
+      }
+      label {
+        font-size: 20px;
+        font-family: "Ubuntu";
+      }
+      input {
+        font-size: 20px;
+        font-family: "Ubuntu";
+        margin-bottom: 10px;
+      }
+      .in {
+        display: table-cell;
+      }
+      .lab {
+        display: table-cell;
+      }
+      select {
+        font-size: 20px;
+        font-family: "Ubuntu";
+        margin-bottom: 10px;
+      }
+      option {
+        font-size: 20px;
+        font-family: "Ubuntu";
+      }
+      form {
+        display: table;
+      }
+      p {
+        display: table-row;
+      }
+    </style>
+  </head>
+  <body>
+    <fieldset>
+      <legend>
+        <div class="title">Personal Information</div>
+        <form>
+          <p>
+            <label class="lab"> FirstName: </label>
+            <input type="text" />
+          </p>
+          <p>
+            <label class="lab"> LastName: </label>
+            <input type="text" />
+          </p>
+          <p>
+            <label class="lab">Date:</label>
+            <input type="date" />
+            <br />
+          </p>
+          <p>
+            <label class="lab">Gender</label>
+            <input type="radio" name="gender" checked />
+            <label>Male</label>
+            <input type="radio" name="gender" />
+            <label>Female</label>
+          </p>
+          <p>
+            <label class="lab"> Job </label>
+            <select name="job">
+              <option value="teacher">Teacher</option>
+              <option value="student">Student</option>
+            </select>
+          </p>
+          <p>
+            <input type="reset" />
+            <input type="submit" />
+          </p>
+        </form>
+      </legend>
+    </fieldset>
+  </body>
+</html>

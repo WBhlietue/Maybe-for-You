@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=App
+comment1.params=
+comment1.target=App()
+comment2.params=
+comment2.target=void\ Move()
+comment3.params=
+comment3.target=void\ Main()
+comment4.params=
+comment4.target=void\ Init()
+comment5.params=
+comment5.target=void\ Print()
+comment6.params=
+comment6.target=void\ randomFood()
+comment7.params=
+comment7.target=void\ gameOver()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
