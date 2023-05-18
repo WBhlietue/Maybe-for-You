@@ -9,8 +9,7 @@ namespace lab7
     public static class Program
     {
 
-        public static MySqlConnection con = new MySqlConnection("server=129.154.218.250;database=HakuVisual;uid=god;pwd=123456Aa.;");
-        //public static MySqlConnection con = new MySqlConnection("server=0;database=HakuVisual;uid=god;pwd=123456Aa.;");
+        public static MySqlConnection con = new MySqlConnection("");
 
         [STAThread]
         static void Main()
