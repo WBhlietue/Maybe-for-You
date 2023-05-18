@@ -1,0 +1,15 @@
+D:\Documents\vscode\CS\lab3vscode\bin\Debug\net7.0\lab3vscode.exe
+D:\Documents\vscode\CS\lab3vscode\bin\Debug\net7.0\lab3vscode.deps.json
+D:\Documents\vscode\CS\lab3vscode\bin\Debug\net7.0\lab3vscode.runtimeconfig.json
+D:\Documents\vscode\CS\lab3vscode\bin\Debug\net7.0\lab3vscode.dll
+D:\Documents\vscode\CS\lab3vscode\bin\Debug\net7.0\lab3vscode.pdb
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.csproj.AssemblyReference.cache
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.AssemblyInfoInputs.cache
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.AssemblyInfo.cs
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.csproj.CoreCompileInputs.cache
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.dll
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\refint\lab3vscode.dll
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.pdb
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\lab3vscode.genruntimeconfig.cache
+D:\Documents\vscode\CS\lab3vscode\obj\Debug\net7.0\ref\lab3vscode.dll

@@ -1,0 +1,15 @@
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.csproj.SuggestedBindingRedirects.cache
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.NumberInput.resources
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.StudentView.resources
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\Documents\vscode\cs\lab6\lab6\bin\Debug\lab6.exe.config
+D:\Documents\vscode\cs\lab6\lab6\bin\Debug\lab6.exe
+D:\Documents\vscode\cs\lab6\lab6\bin\Debug\lab6.pdb
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.exe
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.pdb
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.NewStudent.resources
+D:\Documents\vscode\cs\lab6\lab6\obj\Debug\lab6.StringInput.resources

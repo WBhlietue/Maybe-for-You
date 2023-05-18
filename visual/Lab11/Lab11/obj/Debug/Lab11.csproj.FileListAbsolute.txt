@@ -1,0 +1,12 @@
+D:\Documents\vscode\cs\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\Documents\vscode\cs\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\Documents\vscode\cs\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.csproj.SuggestedBindingRedirects.cache
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.pdb
+D:\Documents\vscode\cs\Lab11\Lab11\obj\Debug\Lab11.Form2.resources
